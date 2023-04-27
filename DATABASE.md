@@ -4,7 +4,7 @@ Use this document to understand the database schema and relations for the Music 
 
 ## ERD
 
-![ERD](./ERD.png)
+![ERD](./erd.png)
 
 ---
 
