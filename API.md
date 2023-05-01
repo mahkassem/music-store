@@ -93,6 +93,7 @@ Authentication required.
 | --- | --- | --- |
 | `name` | String | The artist name. |
 | `bio` | String | The artist bio. |
+| `avatar` | File | The image. |
 
 <br>
 
