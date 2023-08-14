@@ -1,6 +1,6 @@
 # Music Store Project
 
-A test project for Laravel interview. The project is a music store API for managing artists, albums and songs.
+A test project for Laravel/Nestjs interview. The project is a music store API for managing artists, albums and songs.
 
 ## Instructions
 
@@ -18,11 +18,11 @@ A test project for Laravel interview. The project is a music store API for manag
 
 ### REQUIREMENTS
 
-- Use Laravel 9 or higher.
+- Use Laravel 9 / Nest 9 or higher.
 - Use RESTful principles.
 - Provide documentation for the API. (Swagger, Postman, etc.)
-- Use Laravel's validation and authorization features.
+- Use built-in validation and authorization features.
 - Use migrations and seeders to create the database and seed the initial data in addition to some fake data for testing.
 - Use Git for version control. (GitHub)
-- Use Laravel's built-in authentication system. (optional)
+- Use built-in authentication system. (optional)
 - Use Image Intervention for image manipulation. (optional)
